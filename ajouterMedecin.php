@@ -16,7 +16,7 @@
             <form action="ajouterMedecin.php" method="POST">
                 <p>LAST NAME <input type="text" name="nom" required /></p>
                 <p>FIRST NAME <input type="text" name="prenom" required /></p>
-                <p>TITLE <input type="text" name="civilite" required /></p>
+                <p>GENDER <input type="text" name="civilite" required /></p>
                 <p>
                     <input class="btn btn-danger" type="reset" name="reset" value="Reset ">
                     <input class="btn btn-success" type="submit" name="save" value="Add">

@@ -1,5 +1,5 @@
 <?php
-//Connexion au serveur MySQL
+//Connexion serveur MySQL
 try {
 	$bdd = new PDO("mysql:host=localhost;dbname=cabinet", 'root', '');
 }catch (Exception $e) {

@@ -11,7 +11,7 @@
     <div class="container">
         <br/>
         <fieldset>
-            <legend>Ajouter un nouvel usager</legend>
+            <legend>Add a new user</legend>
             <br><br>
             <form action="ajouterUsager.php" method="POST">
                 <p>  LAST NAME <input type="text" name="nom" required /></p>
